@@ -40,29 +40,29 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🏥 Hospital Management System</h3>
-      <a href="https://github.com/s7erif/Hospital-Management-System-HMS-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=s7erif&repo=Hospital-Management-System-HMS-&theme=tokyonight" />
+      <h3>🔐 Log-in System</h3>
+      <a href="https://github.com/youssif-Hy/Log-in-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssif-Hy&repo=Log-in-System&theme=tokyonight" />
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>🛒 E-commerce Platform</h3>
-      <a href="https://github.com/youssif-Hy/E-commerce-Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssif-Hy&repo=E-commerce-Platform&theme=tokyonight" />
+      <h3>🏫 University System</h3>
+      <a href="https://github.com/youssif-Hy/University-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssif-Hy&repo=University-system&theme=tokyonight" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>🤖 AI Chatbot</h3>
-      <a href="https://github.com/youssif-Hy/AI-Chatbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssif-Hy&repo=AI-Chatbot&theme=tokyonight" />
+      <h3>🏦 Bank System</h3>
+      <a href="https://github.com/youssif-Hy/bank-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssif-Hy&repo=bank-system&theme=tokyonight" />
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>📊 Student Management System</h3>
-      <a href="https://github.com/youssif-Hy/Student-Management-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssif-Hy&repo=Student-Management-System&theme=tokyonight" />
+      <h3>🏥 Hospital Management System</h3>
+      <a href="https://github.com/s7erif/Hospital-Management-System-HMS-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=s7erif&repo=Hospital-Management-System-HMS-&theme=tokyonight" />
       </a>
     </td>
   </tr>
