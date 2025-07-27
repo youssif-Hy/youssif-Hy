@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Youssef Harby</h1>
-<h3 align="center">💻 Backend Developer | Passionate about building scalable applications 🚀</h3>
-<p align="center">From Egypt 🌍 | Love problem-solving & learning new technologies 🔥</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F79C&center=true&vCenter=true&lines=Backend+Developer+%F0%9F%92%BB;C%23+%7C+.NET+%7C+OOP+Enthusiast;Passionate+about+Problem+Solving+🔥" />
+</p>
+
+<p align="center">From Egypt 🌍 | Love building scalable applications 🚀</p>
 
 ---
 
@@ -13,6 +17,8 @@
   </a>
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 ---
 
 ### 🚀 About Me:
@@ -21,6 +27,8 @@
 - 💬 **Ask me about:** C# basics, C++ basics, Problem-solving  
 - 👨‍💻 **All my projects:** [GitHub Portfolio](https://github.com/youssif-Hy)  
 - 📫 **Reach me at:** **youssif2371@gmail.com**
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ---
 
@@ -33,9 +41,11 @@
   <a href="https://codeforces.com/profile/youssif_hy1" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 ---
 
-### 🏆 Featured Projects:
+### 🏆 Featured Projects (with GIFs):
 
 <table>
   <tr>
@@ -44,12 +54,16 @@
       <a href="https://github.com/youssif-Hy/Log-in-System">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssif-Hy&repo=Log-in-System&theme=tokyonight" />
       </a>
+      <br/>
+      <img src="assets/login-demo.gif" width="400" /> <!-- ضع هنا GIF للمشروع -->
     </td>
     <td align="center" width="50%">
       <h3>🏫 University System</h3>
       <a href="https://github.com/youssif-Hy/University-system">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssif-Hy&repo=University-system&theme=tokyonight" />
       </a>
+      <br/>
+      <img src="assets/university-demo.gif" width="400" /> <!-- ضع هنا GIF للمشروع -->
     </td>
   </tr>
   <tr>
@@ -58,15 +72,21 @@
       <a href="https://github.com/youssif-Hy/bank-system">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssif-Hy&repo=bank-system&theme=tokyonight" />
       </a>
+      <br/>
+      <img src="assets/bank-demo.gif" width="400" /> <!-- ضع هنا GIF للمشروع -->
     </td>
     <td align="center" width="50%">
       <h3>🏥 Hospital Management System</h3>
       <a href="https://github.com/s7erif/Hospital-Management-System-HMS-">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=s7erif&repo=Hospital-Management-System-HMS-&theme=tokyonight" />
       </a>
+      <br/>
+      <img src="assets/hospital-demo.gif" width="400" /> <!-- ضع هنا GIF للمشروع -->
     </td>
   </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ---
 
