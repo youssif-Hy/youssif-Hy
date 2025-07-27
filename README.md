@@ -22,7 +22,7 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 **Currently working on:** [Hospital-Management-System](https://github.com/s7erif/Hospital-Management-System-HMS-)
+- 🔭 **Currently working on:** [Hospital-Management-System](https://github.com/youssif-Hy/Hospital-Management-System)
 - 🌱 **Learning:** C#, OOP, .NET, HTML, CSS, Database, UX/UI
 - 💬 **Ask me about:** C# basics, C++ basics, Problem-solving  
 - 👨‍💻 **All my projects:** [GitHub Portfolio](https://github.com/youssif-Hy)  
