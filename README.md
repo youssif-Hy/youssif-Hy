@@ -8,9 +8,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" >
-
-
-
+</p>
 
 <h2 align="center">🌟 About Me</h2>
 
@@ -24,9 +22,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-
-
+</p>
 
 <h2 align="center">🚀 Tech Stack</h2>
 
@@ -35,6 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </p>
 
 <h3 align="center">🌐 Web Development</h3>
@@ -52,9 +49,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-
-
+</p>
 
 <h2 align="center">🧩 Core Competencies</h2>
 
@@ -69,9 +64,7 @@ Version Control with <b>Git & GitHub</b>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-
-
+</p>
 
 <h2 align="center">📚 Currently Learning</h2>
 
@@ -85,9 +78,7 @@ Version Control with <b>Git & GitHub</b>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-
-
+</p>
 
 <h2 align="center">🏆 Featured Projects</h2>
 
@@ -138,9 +129,7 @@ Version Control with <b>Git & GitHub</b>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-
-
+</p>
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
@@ -157,9 +146,7 @@ Version Control with <b>Git & GitHub</b>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-
-
+</p>
 
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -179,4 +166,4 @@ Version Control with <b>Git & GitHub</b>
   <a href="https://codeforces.com/profile/youssif_hy1" target="_blank">
     <img src="https://img.shields.io/badge/CODEFORCES-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
-</p>
+</p> 
