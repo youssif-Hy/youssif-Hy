@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 
----
+
 
 <h2 align="center">🚀 Tech Stack</h2>
 
@@ -54,7 +54,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 
----
+
 
 <h2 align="center">🧩 Core Competencies</h2>
 
@@ -71,7 +71,7 @@ Version Control with <b>Git & GitHub</b>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 
----
+
 
 <h2 align="center">📚 Currently Learning</h2>
 
@@ -87,7 +87,7 @@ Version Control with <b>Git & GitHub</b>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 
----
+
 
 <h2 align="center">🏆 Featured Projects</h2>
 
@@ -140,7 +140,7 @@ Version Control with <b>Git & GitHub</b>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 
----
+
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
@@ -159,7 +159,7 @@ Version Control with <b>Git & GitHub</b>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 
----
+
 
 <h2 align="center">🌐 Connect With Me</h2>
 
