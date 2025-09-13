@@ -14,7 +14,7 @@
 
 <p align="center">
 🔭 Currently working on: <a href="https://github.com/youssif-Hy/Hospital-Management-System">Hospital Management System</a> <br/>
-🌱 Learning & Practicing: C#, OOP, .NET, C++, C, HTML, CSS, Git, UI/UX <br/>
+🌱 Learning & Practicing: C#, OOP, .NET, C++, C, Python, HTML, CSS, Git, UI/UX <br/>
 💬 Ask me about: C# basics, OOP concepts, Problem-solving, Console projects <br/>
 👨‍💻 All my projects: <a href="https://github.com/youssif-Hy">GitHub Portfolio</a> <br/>
 📫 Reach me at: <b>youssif2371@gmail.com</b>
