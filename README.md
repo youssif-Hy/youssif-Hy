@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Youssef Harby — Software Developer, Android-focused" width="100%" />
+  <img src="./profile-hero.svg" alt="Youssef Harby — Software Developer, Android-focused" width="100%" />
 </p>
 
 <p align="center">
