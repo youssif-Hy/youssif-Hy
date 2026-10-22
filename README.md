@@ -128,16 +128,13 @@ Understand the problem → Design the experience → Build the solution
 
 I care about **readable code, intentional interfaces, clear collaboration, and continuous learning**. My long-term direction is to become a stronger Android and software engineer by shipping practical applications and understanding the systems behind them.
 
-<details>
-<summary><strong>GitHub activity</strong> — expand to see contribution trends</summary>
-
-<br />
+### 06 / GITHUB ACTIVITY
 
 <p align="center">
-  <img alt="Youssef Harby GitHub contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=youssif-Hy&bg_color=0D1624&color=BACBD8&line=86A9C3&point=E5EDF3&area=true&hide_border=true" width="100%" />
+  <a href="https://github.com/youssif-Hy"><strong>↗ Explore my live contributions on GitHub</strong></a>
+  <br />
+  <sub>View my contribution calendar, activity, and recent public work directly on my profile.</sub>
 </p>
-
-</details>
 
 ---
 
