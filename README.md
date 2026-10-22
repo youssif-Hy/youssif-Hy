@@ -1,12 +1,14 @@
 <!--
   YOUSSEF HARBY / GITHUB PROFILE
   Replace the README.md in github.com/youssif-Hy/youssif-Hy
-  and upload assets/profile-hero.svg alongside it.
+  and upload assets/profile-hero.svg and .github/workflows/contribution-snake.yml alongside it.
+  IMPORTANT: Run the workflow successfully to create the output branch,
+  then the two contribution SVGs will be visible.
   Designed for GitHub's native Markdown renderer (no JavaScript required).
 -->
 
 <p align="center">
-  <img src="./profile-hero.svg" alt="Youssef Harby — Software Developer, Android-focused" width="100%" />
+  <img src="./assets/profile-hero.svg" alt="Youssef Harby — Software Developer, Android-focused" width="100%" />
 </p>
 
 <p align="center">
@@ -131,9 +133,19 @@ I care about **readable code, intentional interfaces, clear collaboration, and c
 ### 06 / GITHUB ACTIVITY
 
 <p align="center">
-  <a href="https://github.com/youssif-Hy"><strong>↗ Explore my live contributions on GitHub</strong></a>
-  <br />
-  <sub>View my contribution calendar, activity, and recent public work directly on my profile.</sub>
+  <strong>A year of building, learning, and shipping.</strong>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youssif-Hy/youssif-Hy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youssif-Hy/youssif-Hy/output/github-snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/youssif-Hy/youssif-Hy/output/github-snake-light.svg" alt="Youssef Harby's GitHub contributions, generated daily from real contribution activity" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Contribution animation · Updated automatically via GitHub Actions · <a href="https://github.com/youssif-Hy">View live activity</a></sub>
 </p>
 
 ---
