@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="368" viewBox="0 0 1280 368" role="img" aria-labelledby="title desc">
+  <title id="title">Youssef Harby - Software Developer</title>
+  <desc id="desc">Dark editorial profile banner with cool slate accents and geometric orbital graphics.</desc>
+  <defs>
+    <linearGradient id="backdrop" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070C14"/>
+      <stop offset="55%" stop-color="#0D1624"/>
+      <stop offset="100%" stop-color="#172739"/>
+    </linearGradient>
+    <linearGradient id="fine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6A92B2"/>
+      <stop offset="1" stop-color="#A5BDCC"/>
+    </linearGradient>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6F93B4" stop-opacity=".48"/>
+      <stop offset="100%" stop-color="#DCE8F1" stop-opacity=".04"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#8EA9BF" stroke-opacity=".065" stroke-width="1"/>
+    </pattern>
+    <clipPath id="bounds"><rect width="1280" height="368" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1280" height="368" fill="url(#backdrop)"/>
+    <rect width="1280" height="368" fill="url(#grid)"/>
+    <path d="M -40 340 L 1120 -90" stroke="#638AA7" stroke-opacity=".09" stroke-width="1"/>
+    <path d="M 120 440 L 1280 -2" stroke="#638AA7" stroke-opacity=".09" stroke-width="1"/>
+    <circle cx="1090" cy="183" r="269" fill="none" stroke="url(#orb)" stroke-width="1.5"/>
+    <circle cx="1090" cy="183" r="214" fill="none" stroke="url(#orb)" stroke-width="1.1"/>
+    <circle cx="1090" cy="183" r="158" fill="none" stroke="url(#orb)" stroke-width="1"/>
+    <circle cx="1090" cy="183" r="102" fill="none" stroke="url(#orb)" stroke-width="1"/>
+    <circle cx="1090" cy="183" r="31" fill="#688DA8" fill-opacity=".065" stroke="#9AB6CE" stroke-opacity=".45" stroke-width="1.5"/>
+    <path d="M 868 79 Q 1110 31 1259 222" stroke="#C0D8E7" stroke-opacity=".4" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M 849 288 Q 1050 363 1256 222" stroke="#7BA0BC" stroke-opacity=".3" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M 1020 76 L 1182 270 M 1182 76 L 1020 270" stroke="#A6BED2" stroke-opacity=".09" stroke-width="1"/>
+    <circle cx="901" cy="70" r="4" fill="#B6CDDC"/>
+    <circle cx="1240" cy="222" r="4" fill="#B6CDDC"/>
+    <circle cx="966" cy="300" r="2.5" fill="#7FA2BC"/>
+    <path d="M 69 64 H 102" stroke="url(#fine)" stroke-width="3" stroke-linecap="round"/>
+    <text x="116" y="69" fill="#AABFCF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3.3">DEVELOPER PROFILE</text>
+    <text x="64" y="169" fill="#F1F5F8" font-family="Arial, Helvetica, sans-serif" font-size="77" font-weight="800" letter-spacing="1">YOUSSEF</text>
+    <text x="64" y="247" fill="#F1F5F8" font-family="Arial, Helvetica, sans-serif" font-size="77" font-weight="800" letter-spacing="1">HARBY<tspan fill="#8EACC2">.</tspan></text>
+    <path d="M 69 277 H 589" stroke="#829BAF" stroke-opacity=".34" stroke-width="1"/>
+    <text x="69" y="307" fill="#BACBD8" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="2.3">SOFTWARE DEVELOPER  /  ANDROID-FOCUSED</text>
+    <text x="69" y="338" fill="#788FA3" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.4">ANDROID   •   WEB   •   SYSTEMS   •   DESIGN</text>
+    <text x="1204" y="333" text-anchor="end" fill="#8AA6BD" fill-opacity=".62" font-family="Consolas, 'Courier New', monospace" font-size="11">[ BUILD / LEARN / ITERATE ]</text>
+  </g>
+</svg>
